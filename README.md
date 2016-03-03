@@ -2,6 +2,6 @@
 
 Running luerl in elixir
 
-:luerl.do("print(\"Hello, Robert(o)!\")")
+:luerl.do("print(\"Hello!\")")
 
-:luerl.dofile('./examples/hello/hello.lua')
+:luerl.dofile('./lib/examples/hello/hello.lua')
