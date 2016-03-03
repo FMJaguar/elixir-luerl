@@ -1,0 +1,1 @@
+%{"luerl": {:git, "https://github.com/rvirding/luerl", "ef64f458ab5a6e1e50668d48d240ad73dddd2f4c", [branch: "new-engine"]}}
